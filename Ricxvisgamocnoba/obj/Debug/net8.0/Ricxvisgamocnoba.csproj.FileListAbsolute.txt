@@ -1,0 +1,14 @@
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\bin\Debug\net8.0\Ricxvisgamocnoba.exe
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\bin\Debug\net8.0\Ricxvisgamocnoba.deps.json
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\bin\Debug\net8.0\Ricxvisgamocnoba.runtimeconfig.json
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\bin\Debug\net8.0\Ricxvisgamocnoba.dll
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\bin\Debug\net8.0\Ricxvisgamocnoba.pdb
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.AssemblyInfo.cs
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.dll
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\refint\Ricxvisgamocnoba.dll
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.pdb
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\Ricxvisgamocnoba.genruntimeconfig.cache
+C:\Users\ANI\source\repos\FinalProject\Ricxvisgamocnoba\obj\Debug\net8.0\ref\Ricxvisgamocnoba.dll

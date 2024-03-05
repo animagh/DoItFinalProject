@@ -1,0 +1,44 @@
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.AssemblyInfo.cs
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.csproj.AssemblyReference.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.AssemblyInfoInputs.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.AssemblyInfo.cs
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.deps.json
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.runtimeconfig.json
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.exe
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.exe
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.deps.json
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.runtimeconfig.json
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.pdb
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.pdb
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.csproj.CopyComplete
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\refint\ATMOperation.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.pdb
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.genruntimeconfig.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\ATMOperation\obj\Debug\net8.0\ref\ATMOperation.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.deps.json
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.runtimeconfig.json
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.exe
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.exe
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.deps.json
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.runtimeconfig.json
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\ATMOperation.pdb
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\bin\Debug\net8.0\Kalkulatori.pdb
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.csproj.CopyComplete
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\refint\ATMOperation.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.pdb
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.genruntimeconfig.cache
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ref\ATMOperation.dll

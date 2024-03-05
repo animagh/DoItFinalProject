@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fT0a+y6jVNMrOcmAVzEhrD3Ln4R3ldFKAo0/MhR6Q7ehucddJazWrOGEmms4rnRDxrbt9wrInVHixrQMdsTmBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANI\\source\\repos\\FinalProject\\ATMOperation\\ATMOperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

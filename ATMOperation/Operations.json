@@ -1,0 +1,43 @@
+[{
+  "OperationId": 11,
+  "OperationTime": "2024-03-05T01:03:20.2089584+04:00",
+  "changeAmmount": 0,
+  "CurrentBalance": 0,
+  "OperationName": "User Ana Magradze - Checked Balance : 05.03.2024 01:03:20."
+},{
+  "OperationId": 11,
+  "OperationTime": "2024-03-05T01:05:45.6892022+04:00",
+  "changeAmmount": 0,
+  "CurrentBalance": 0,
+  "OperationName": "User Ana Magradze - Checked Balance : 05.03.2024 01:05:45."
+},{
+  "OperationId": 11,
+  "OperationTime": "2024-03-05T01:06:14.2254292+04:00",
+  "changeAmmount": 500,
+  "CurrentBalance": 500,
+  "OperationName": "User Ana Magradze - Deposited 500 Lari : 05.03.2024 01:06:14 , Current Balance 500"
+},{
+  "OperationId": 11,
+  "OperationTime": "2024-03-05T01:06:21.6483+04:00",
+  "changeAmmount": 200,
+  "CurrentBalance": 300,
+  "OperationName": "User Ana Magradze - Withdrawed 200 Lari : 05.03.2024 01:06:21 , Current Balance 300"
+},{
+  "OperationId": 12,
+  "OperationTime": "2024-03-05T01:18:32.2088878+04:00",
+  "changeAmmount": 0,
+  "CurrentBalance": 0,
+  "OperationName": "User Nika Zhgenti - Checked Balance : 05.03.2024 01:18:32."
+},{
+  "OperationId": 12,
+  "OperationTime": "2024-03-05T01:18:53.2261533+04:00",
+  "changeAmmount": 500,
+  "CurrentBalance": 500,
+  "OperationName": "User Nika Zhgenti - Deposited 500 Lari : 05.03.2024 01:18:53 , Current Balance 500"
+},{
+  "OperationId": 13,
+  "OperationTime": "2024-03-05T02:20:50.0822253+04:00",
+  "changeAmmount": 100,
+  "CurrentBalance": 100,
+  "OperationName": "User ana maghradze - Deposited 100 Lari : 05.03.2024 02:20:50 , Current Balance 100"
+}]

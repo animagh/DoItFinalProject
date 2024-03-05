@@ -1,0 +1,14 @@
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\bin\Debug\net8.0\Chamoxrchobana.exe
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\bin\Debug\net8.0\Chamoxrchobana.deps.json
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\bin\Debug\net8.0\Chamoxrchobana.runtimeconfig.json
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\bin\Debug\net8.0\Chamoxrchobana.dll
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\bin\Debug\net8.0\Chamoxrchobana.pdb
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.AssemblyInfo.cs
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.dll
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\refint\Chamoxrchobana.dll
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.pdb
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\Chamoxrchobana.genruntimeconfig.cache
+C:\Users\ANI\source\repos\FinalProject\Chamoxrchobana\obj\Debug\net8.0\ref\Chamoxrchobana.dll

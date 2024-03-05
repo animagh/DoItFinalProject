@@ -1,0 +1,28 @@
+C:\Users\ANI\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.exe
+C:\Users\ANI\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.deps.json
+C:\Users\ANI\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.runtimeconfig.json
+C:\Users\ANI\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.dll
+C:\Users\ANI\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.pdb
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.AssemblyInfo.cs
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.dll
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\refint\Kalkulatori.dll
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.pdb
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.genruntimeconfig.cache
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\ref\Kalkulatori.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.exe
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.deps.json
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.runtimeconfig.json
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\bin\Debug\net8.0\Kalkulatori.pdb
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.AssemblyInfoInputs.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.AssemblyInfo.cs
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\refint\Kalkulatori.dll
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.pdb
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.genruntimeconfig.cache
+C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\ref\Kalkulatori.dll
