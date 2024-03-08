@@ -26,3 +26,4 @@ C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net
 C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.pdb
 C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.genruntimeconfig.cache
 C:\Users\Geekster PC\Desktop\Programming\FinalProject\FinalProject\obj\Debug\net8.0\ref\Kalkulatori.dll
+C:\Users\ANI\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\Kalkulatori.sourcelink.json

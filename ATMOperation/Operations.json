@@ -40,4 +40,16 @@
   "changeAmmount": 100,
   "CurrentBalance": 100,
   "OperationName": "User ana maghradze - Deposited 100 Lari : 05.03.2024 02:20:50 , Current Balance 100"
+},{
+  "OperationId": 13,
+  "OperationTime": "2024-03-08T17:05:27.2768433+04:00",
+  "changeAmmount": 0,
+  "CurrentBalance": 100,
+  "OperationName": "User ana maghradze - Checked Balance : 08.03.2024 17:05:27. Current Balance 100"
+},{
+  "OperationId": 13,
+  "OperationTime": "2024-03-08T17:05:44.4639094+04:00",
+  "changeAmmount": 200,
+  "CurrentBalance": 100,
+  "OperationName": "User ana maghradze - Withdrawed 200 Lari : 08.03.2024 17:05:44 , Current Balance 100"
 }]

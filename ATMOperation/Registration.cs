@@ -34,7 +34,7 @@ namespace ATMOperation
             Console.WriteLine("Enter your Email: ");
             string email = Console.ReadLine();
 
-            Console.WriteLine("Enter your Type");
+            Console.WriteLine("Enter your Type. Write 0 for physical person and 1 for legal entity.");
             int type = int.Parse(Console.ReadLine());
 
             users = repository.GetAllUser();

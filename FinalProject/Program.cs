@@ -4,14 +4,34 @@ while (true)
 {
     Console.WriteLine("enter number N1:");
     string Userinput1 = Console.ReadLine();
-    double number1 = Convert.ToDouble(Userinput1);
+    double number1;
 
     Console.WriteLine("enter number N2:");
     string Userinput2 = Console.ReadLine();
-    double number2 = Convert.ToDouble(Userinput2);
+    double number2;
+
+    try
+    {
+        number1 = Convert.ToDouble(Userinput1);
+        number2 = Convert.ToDouble(Userinput2);
+    }
+    catch (FormatException)
+    {
+        Console.WriteLine("Invalid input. Please enter valid numbers.");
+        continue;
+    }
 
     Console.WriteLine("choose the operation: + - * / :");
-    char operation = Convert.ToChar(Console.ReadLine());
+    char operation;
+    try
+    {
+        operation = Convert.ToChar(Console.ReadLine());
+    }
+    catch (FormatException)
+    {
+        Console.WriteLine("Invalid operation. Please enter a valid operation character.");
+        continue; 
+    }
 
     switch (operation)
     {

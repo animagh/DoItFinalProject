@@ -10,7 +10,7 @@ namespace ATMOperation
     public class UsersJSONRepository:IRepository
     {
 
-        private const string _fileLocation = "C:\\Users\\ANI\\source\\repos\\FinalProject\\ATMOperation\\Users.json";
+        private const string _fileLocation = @"../../../Users.json";
         private List<User> _data = new();
 
         public UsersJSONRepository()

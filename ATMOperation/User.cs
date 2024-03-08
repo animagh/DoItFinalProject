@@ -144,14 +144,23 @@ namespace ATMOperation
 
         private void Withdraw(double balance)
         {
-            if (Balance >= balance)
+            try
             {
-                Balance -= balance;
+                if (Balance >= balance)
+                {
+                    Balance -= balance;
+                }
+                else
+                {
+                    throw new Exception("The operation can not be performed due to insufficient funds");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                throw new Exception("The operation can not be performed due to insufficient funds");
+                Console.WriteLine($"Error: {ex.Message}");
             }
+            
+            
             
 
         }

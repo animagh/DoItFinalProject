@@ -42,3 +42,4 @@ C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\refint\ATMO
 C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.pdb
 C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.genruntimeconfig.cache
 C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ref\ATMOperation.dll
+C:\Users\ANI\source\repos\FinalProject\ATMOperation\obj\Debug\net8.0\ATMOperation.sourcelink.json

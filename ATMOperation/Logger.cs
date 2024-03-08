@@ -10,7 +10,7 @@ namespace ATMOperation
     public class Logger : ILogger
     {
 
-        private const string _fileLocation = "C:\\Users\\ANI\\source\\repos\\FinalProject\\ATMOperation\\Operations.json";
+        private const string _fileLocation = @"../../../Operations.json";
         private List<Operation> _data ;
 
         private List<Operation> ParseJson(string input)
